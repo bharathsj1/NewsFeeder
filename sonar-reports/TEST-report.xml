@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='NewsFeederUITests.xctest' tests='6' failures='0'>
+  <testsuite name='NewsFeederTests.NewsFeederTests' tests='4' failures='0'>
+    <testcase classname='NewsFeederTests.NewsFeederTests' name='testDetailController' time='0.041'/>
+    <testcase classname='NewsFeederTests.NewsFeederTests' name='testFetchData' time='1.881'/>
+    <testcase classname='NewsFeederTests.NewsFeederTests' name='testGetAPIResponse' time='1.613'/>
+    <testcase classname='NewsFeederTests.NewsFeederTests' name='testHomeController' time='0.004'/>
+  </testsuite>
+  <testsuite name='NewsFeederUITests.NewsFeederUITests' tests='2' failures='0'>
+    <testcase classname='NewsFeederUITests.NewsFeederUITests' name='testNavigation' time='6.792'/>
+    <testcase classname='NewsFeederUITests.NewsFeederUITests' name='testTableView' time='6.333'/>
+  </testsuite>
+</testsuites>
